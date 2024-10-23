@@ -2,6 +2,7 @@
   "name": "07-day-deployment",
   "version": "1.0.0",
   "main": "example.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "example": "node --env-file=.env example.js",
